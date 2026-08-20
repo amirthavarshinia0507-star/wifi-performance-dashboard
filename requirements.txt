@@ -1,4 +1,5 @@
-streamlit
-pandas
-numpy
-plotly
+streamlit 
+pandas 
+numpy 
+plotly 
+ping3
